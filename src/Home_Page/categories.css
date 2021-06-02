@@ -1,0 +1,72 @@
+.category_item{
+
+
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;   
+    justify-content: center;
+    transition: 0.6s;
+
+}
+
+.category_item:hover{
+
+    transform: scale(1.02);
+
+}
+
+.category_data{
+
+    margin-top: 30px;
+    
+}
+
+.category_item h2{
+
+
+    color: #fff;
+    padding: 10px;
+
+}
+
+
+
+
+.category_item button{
+
+    
+    position: absolute;
+    border-width: 1px;
+    border-color: #fff;
+    border-radius: 2px;
+    width: 100px;
+    padding: 15px;
+    margin: 5px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    cursor: pointer;
+    
+
+
+    
+
+}
+
+
+.category_item button:hover{
+
+    border-width: 1px;
+    width: 100px;
+    padding: 15px;
+    margin: 5px;
+    background-color: #00000000;
+    color: #fff;
+    border-width: 1px;
+    border-color: #fff;
+    cursor: pointer;
+
+
+}

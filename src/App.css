@@ -1,0 +1,20 @@
+.Image{
+
+    background-image: url('https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-size: cover;
+    background-repeat: 0;
+    background-attachment: fixed;
+
+
+
+}
+
+.home_categories_row{
+    max-height: 150px;
+    display: flex;
+    margin-right: 40px;
+    margin-left: 40px;
+     
+    
+
+}

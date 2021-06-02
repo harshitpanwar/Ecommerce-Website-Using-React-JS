@@ -1,0 +1,79 @@
+.Body__Top{
+
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 400px;
+    flex-direction: column;
+    margin: 20px;
+   
+}
+
+.Body__Top h1{
+
+    margin: 20px;
+    color: #fff;
+
+}
+
+.Body__Top h4{
+    margin: 20px;
+    color: #fff;
+
+}
+
+.button2{
+
+    border-width: 1px;
+    width: 100px;
+    padding: 10px;
+    margin: 5px;
+    background-color: #00494949;
+    color: #fff;
+    border-width: 1px;
+    border-color: #fff;
+    cursor: pointer;
+    
+
+}
+
+.button2:hover{
+
+    border-width: 1px;
+    width: 100px;
+    padding: 10px;
+    margin: 5px;
+    background-color: #00000000;
+    color: #fff;
+    cursor: pointer;
+    
+
+}
+
+.button1{
+
+    border-width: 1px;
+    width: 100px;
+    padding: 10px;
+    margin: 5px;
+    background-color: #fff;
+    color: #494949;
+    cursor: pointer;
+    
+
+}
+.button1:hover{
+
+
+    border-width: 1px;
+    width: 100px;
+    padding: 10px;
+    margin: 5px;
+    background-color: #00000000;
+    color: #fff;
+    border-width: 1px;
+    border-color: #fff;
+    cursor: pointer;
+    
+
+}
