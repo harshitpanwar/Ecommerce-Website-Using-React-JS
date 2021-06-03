@@ -1,0 +1,57 @@
+.Accessories{
+
+    
+    background-image: url('https://images.pexels.com/photos/682933/pexels-photo-682933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+    background-repeat: 0;
+    background-attachment: fixed;
+    height: 400px;
+    padding-left: 30px;
+    margin:40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.Accessories h1{
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.Accessories p{
+
+    color: #fff;
+    margin-bottom: 40px;
+
+
+}
+
+.Accessories button{
+
+    border-width: 1px;
+    border-color: #fff;
+    border-radius: 2px;
+    width: 100px;
+    padding: 12px;
+    margin: 5px;
+    background-color: #fff;
+    color: #585533;
+    cursor: pointer;
+    
+
+
+
+}
+
+.Accessories button:hover{
+
+    border-width: 1px;
+    width: 100px;
+    padding: 12px;
+    margin: 5px;
+    background-color: #000;
+    color: #f4f4f4;
+    cursor: pointer;
+
+}

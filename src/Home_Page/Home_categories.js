@@ -1,15 +1,15 @@
 import React from 'react'
 import './categories.css'
-function Home_categories({heading,backgroundUrl}) {
+function Home_categories({heading,description,buttonText,backgroundUrl}) {
     return (
         <div className="category_item"  style={{backgroundImage: `url(${backgroundUrl})`}}>
             
             <div className="category_data" >
 
-            <h2>{heading}</h2>
-
+            <h1>{heading}</h1>
+            <p>{description}</p>
             
-            <button>Shop Now</button>
+            <button>{buttonText}</button>
 
             </div>
           

@@ -1,0 +1,26 @@
+.Latest_products{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+}
+.Latest_products h1{
+
+    color: #585533;
+   
+
+}
+
+
+.products_row{
+
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+    margin-left: 50px;
+
+
+}
+
